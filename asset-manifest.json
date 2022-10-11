@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codev-project/static/css/main.6ba2b767.css",
+    "main.js": "/codev-project/static/js/main.94dea66a.js",
+    "index.html": "/codev-project/index.html",
+    "main.6ba2b767.css.map": "/codev-project/static/css/main.6ba2b767.css.map",
+    "main.94dea66a.js.map": "/codev-project/static/js/main.94dea66a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba2b767.css",
+    "static/js/main.94dea66a.js"
+  ]
+}
