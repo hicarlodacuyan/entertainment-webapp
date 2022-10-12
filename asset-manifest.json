@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/codev-project/static/css/main.1f8aabcd.css",
-    "main.js": "/codev-project/static/js/main.edfd6351.js",
+    "main.js": "/codev-project/static/js/main.90e587dd.js",
     "index.html": "/codev-project/index.html",
     "main.1f8aabcd.css.map": "/codev-project/static/css/main.1f8aabcd.css.map",
-    "main.edfd6351.js.map": "/codev-project/static/js/main.edfd6351.js.map"
+    "main.90e587dd.js.map": "/codev-project/static/js/main.90e587dd.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8aabcd.css",
-    "static/js/main.edfd6351.js"
+    "static/js/main.90e587dd.js"
   ]
 }
