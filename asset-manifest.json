@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/codev-project/static/css/main.bf58defc.css",
-    "main.js": "/codev-project/static/js/main.58c9f27d.js",
+    "main.css": "/codev-project/static/css/main.9dd0c05b.css",
+    "main.js": "/codev-project/static/js/main.36a51cf9.js",
     "index.html": "/codev-project/index.html",
-    "main.bf58defc.css.map": "/codev-project/static/css/main.bf58defc.css.map",
-    "main.58c9f27d.js.map": "/codev-project/static/js/main.58c9f27d.js.map"
+    "main.9dd0c05b.css.map": "/codev-project/static/css/main.9dd0c05b.css.map",
+    "main.36a51cf9.js.map": "/codev-project/static/js/main.36a51cf9.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf58defc.css",
-    "static/js/main.58c9f27d.js"
+    "static/css/main.9dd0c05b.css",
+    "static/js/main.36a51cf9.js"
   ]
 }
